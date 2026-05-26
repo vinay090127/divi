@@ -1,7 +1,6 @@
 {
   "name": "signup-app",
   "version": "1.0.0",
-  "description": "Signup app with Supabase and Render",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
